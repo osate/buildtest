@@ -35,4 +35,12 @@ public class AppTest
     {
         assertTrue( true );
     }
+
+    /**
+     * Another rigorous test...
+     */
+    public void testAppGetter()
+    {
+        assertEquals(5, App.get5());
+    }
 }
