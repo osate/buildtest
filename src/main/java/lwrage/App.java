@@ -26,6 +26,6 @@ public class App
      * Compile error
      */
     public static int get6() {
-        return "A";
+        return "A"
     }
 }
