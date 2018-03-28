@@ -49,7 +49,7 @@ public class AppTest
     /**
      * Add additional test
      */
-    public void testAppGetter()
+    public void testOtherAppGetter()
     {
         assertEquals(6, App.get6());
     }
