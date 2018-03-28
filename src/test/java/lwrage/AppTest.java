@@ -52,6 +52,6 @@ public class AppTest
     public void testOtherAppGetter()
     {
         assertEquals(6, App.get6());
-        assertTrue(true);
+        assertTrue(true); /* */
     }
 }
