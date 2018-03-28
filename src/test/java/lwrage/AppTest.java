@@ -43,4 +43,14 @@ public class AppTest
     {
         assertEquals(5, App.get5());
     }
+    
+    
+
+    /**
+     * Add additional test
+     */
+    public void testAppGetter()
+    {
+        assertEquals(6, App.get6());
+    }
 }
