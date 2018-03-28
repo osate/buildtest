@@ -21,4 +21,11 @@ public class App
     public static String getA() {
         return "A";
     }
+    
+    /**
+     * Compile error
+     */
+    public static int get6() {
+        return "A";
+    }
 }
