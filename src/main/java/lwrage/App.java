@@ -23,9 +23,9 @@ public class App
     }
     
     /**
-     * Compile error
+     * No error
      */
     public static int get6() {
-        return "A"
+        return 6;
     }
 }
