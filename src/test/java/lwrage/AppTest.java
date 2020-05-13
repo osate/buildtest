@@ -43,4 +43,15 @@ public class AppTest
     {
         assertEquals(5, App.get5());
     }
+    
+    
+
+    /**
+     * Add additional test
+     */
+    public void testOtherAppGetter()
+    {
+        assertEquals(6, App.get6());
+        assertTrue(true); /* */
+    }
 }

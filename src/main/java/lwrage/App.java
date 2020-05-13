@@ -14,4 +14,18 @@ public class App
     public static int get5() {
         return 5;
     }
+
+    /**
+     * Untested functionality!
+     */
+    public static String getA() {
+        return "A";
+    }
+    
+    /**
+     * No error
+     */
+    public static int get6() {
+        return 6;
+    }
 }
